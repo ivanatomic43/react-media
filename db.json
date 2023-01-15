@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "name": "Tracy Koss",
+      "id": 2
+    },
+    {
+      "name": "Mrs. Sandra Nikolaus",
+      "id": 3
+    },
+    {
+      "name": "Kirk Walsh",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "title": "Refined Frozen Gloves",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "title": "Generic Fresh Car",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "title": "Modern Granite Pants",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "title": "Luxurious Frozen Chair",
+      "userId": 4,
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/262.jpg",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/334.jpg",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/147.jpg",
+      "id": 3
+    }
+  ]
+}
